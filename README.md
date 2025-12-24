@@ -36,3 +36,8 @@ A high-performance, minimalist replacement for the default 3ds Max Transform Typ
 
 Developed by \*\*Hamdy Elnagar\*\* Company: \*\*Pix Plank\*\* Contact: elnagarcg86@gmail.com
 
+
+
+https://github.com/user-attachments/assets/8789847f-c895-4696-ba0d-ac9346c7e71a
+
+

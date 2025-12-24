@@ -2,7 +2,7 @@
 
 \*\*Part of the PIX PLANK Series\*\*
 
-
+[📥 Download PIX Transform Bar v1.0](https://github.com/HamdyElnagar/PIX-Transform-Bar/raw/main/PIX_Transform_Bar_v1.mse)
 
 A high-performance, minimalist replacement for the default 3ds Max Transform Type-In dialog. Designed for 3ds Max 2022 - 2026.
 
@@ -39,5 +39,6 @@ Developed by \*\*Hamdy Elnagar\*\* Company: \*\*Pix Plank\*\* Contact: elnagarcg
 
 
 https://github.com/user-attachments/assets/8789847f-c895-4696-ba0d-ac9346c7e71a
+
 
 
